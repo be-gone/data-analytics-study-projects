@@ -1,1 +1,1 @@
-# data-analitics-study-projects
+# data-analytics-study-projects
